@@ -1,0 +1,18 @@
+.btn-secondary{
+	background-color: grey;
+	color: white;
+}
+
+#inputAddress2{
+	width: 50%;
+}
+
+
+#inputAddress{
+	width: 50%;
+}
+
+.table-dark{
+	background-color: black;
+	color: white;
+}
